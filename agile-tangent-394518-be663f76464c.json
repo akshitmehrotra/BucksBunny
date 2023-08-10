@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "agile-tangent-394518",
+  "private_key_id": "be663f76464cae2209a25e45d68e15168caba097",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmxNDIfEDxQeXp\nrrq+IbkEAZ8uwgMij8o30EHGAlXpGUATRWGhu5vHWrWiFy97HtD0kjTb2CW8G3/F\neiVLSGh3BWLqwfoygPpNam7xjq5dWaVpCmNPskncC7UM9o2xN4DxviwZ/bPtBclp\nTp6iSZkv1owpMh3mowTG2VaIiL8GJDsBt2Z238FcJCAnskpzWALDWDoASbnAo+eD\nDdokqhQaBQ/IvazTZ62gaieL/NxYAb3wM22wcmz0TEb7OamXdGNwPnr6GnlZMacB\nMWXLV605xlWafgmAXNpNjMqvkQ5zMtj43wKS/haCjiQI+X/JCiShZ3sOUON3vKpI\nxoq1VjkFAgMBAAECggEACZyd4PRCZPVUnEGZG0TDzl6Oj2oYtqj9cXaUF+bCD1eI\neSPeUu1Gdvi8L72w26KEzhfQKpycXililZ3q4NopRTTfBONNuZPz+TrJbqw30gMM\n9M8ntqvytFdLZdYfCAgIK0a38X6NHHvhJivlGjruNJLjzKsKDKU4LQLRSTjCc8bS\nbxDZgJ2Zk/1J4HMdGygfVGA1xPNo28O48uyUSADRFAR1MozefRXuHrFX9StnW31A\nBbTJGSLrgGBBTAhGv6c/OaJKdKIJlpe7t80ptPyY3XJSRbk62qsu+3IQ26DTtyaY\nQ3DSxB4p0ZPIxn9eXscm/PH4n8ULRcaIjgy7XzkC8QKBgQDcNcqoJegr1pI5suXh\nzvY/fgwxA69D3e75DDugqNh+9jaW0SpwyCe+fPmfYIIi75ENCBwYIywA/8dwRDFp\nbEWzKzLQz5WyE4Z1foOtqLB7Q5Qx6Wsq46sUCGxCMENZLFHCtSsdJSDPyYQx0h8S\nepmUUkCC/F67AVb2HkqtBHRncQKBgQDB34JeAvO94A63JpIeg0I7VS/3fXa9Tsi9\nsNEo/fSVGav+qwUKrGwXjrHWzc7Uhl9FtTBW0/IEPZiQ9LOmQh/NrMGDgY7g8yHC\nnNSe/3mCK2LNqpE2WkXvgHoghL8wiuuhtRmYIv7hLkf8h94ULGYKaim5405Ppe/j\nzjlIfTqo1QKBgQDGTx74/GIwEGTQ1z3Uc7gpB49dGI9ek9+gopaUIVoORBZ3DVim\nBmpcTlnSYGvxoELFNJdwWURIhg+KF69T3DCMoIt7pmWN362H4+4blr2P1BUCOc3L\n6wlm2gr8NFCCXrommVaBQa1h0n1dDHf1ATmLa+My0qlQyW0R6cegNlHJ0QKBgFSt\nGnOVNoAn7EVyQz+wdK0Vd+3QjpwAXQz8vV36DWlR3R1N9NXEmTFw0ZvQKBYK2nHH\nwWUrDPltLcWiGxTyrJFYcuzNGWqGxqgJd5Q6YQfJi03owaPLqeABbVXmpNq+0ku+\nnX8lSc1wOWDCtux4t9i0paTa8sk24J/O4pYWnBhBAoGAYW5034K8ruykdMCNZ7WR\nSROnlKcfeA6Kl42CK3dwgnjglH+QKJv6tHy1XrySHLGz1WrnBBMHjEOPevcbei8k\nRQI4CCWq/quuq9KYwHXSh095pBZOJbEZLVtbJc2bnwPY4sdOr5gcN8VUDGQf0glU\ndvPtmtSjVSGwrX/6Wa2sYb0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "anamiz@agile-tangent-394518.iam.gserviceaccount.com",
+  "client_id": "117290396541573337432",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/anamiz%40agile-tangent-394518.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
