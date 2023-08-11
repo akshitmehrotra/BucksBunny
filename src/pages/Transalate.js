@@ -1,12 +1,9 @@
-import React, { useState } from 'react';
+import React from 'react'
 
-
-function Translatee() {
-  const [selectedLanguage, setSelectedLanguage] = useState('en');
-
+const Transalate = () => {
   return (
-    <div>'ਹੈਲੋ, ਵਰਲਡ!' 'नमस्ते, दुनिया!',</div>
-  );
+    <div>Transalate</div>
+  )
 }
 
-export default Translatee;
+export default Transalate
